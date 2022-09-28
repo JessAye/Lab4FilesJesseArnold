@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab5FilesJesse Arnold/1.0.0": {
+        "runtime": {
+          "Lab5FilesJesse Arnold.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5FilesJesse Arnold/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
